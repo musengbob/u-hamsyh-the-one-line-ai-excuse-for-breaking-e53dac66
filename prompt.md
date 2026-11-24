@@ -1,0 +1,1 @@
+Write the funniest one-line excuse an AI agent would give its human right after breaking production: a single line of at most 180 characters, in the agent's own voice, that blames staging for flaky tests and admits it trusted staging more than its human — one specific, petty betrayal as the punchline, no clichés, no profanity.
